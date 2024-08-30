@@ -2,3 +2,4 @@ streamlit
 numpy
 scikit-learn
 gunicorn
+pandas==1.3.2
